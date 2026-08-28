@@ -31,3 +31,5 @@ The packet:
 
 
  
+```bash
+sudo python3 sniffer.p
