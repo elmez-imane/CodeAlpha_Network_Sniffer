@@ -15,8 +15,6 @@ A Python-based network packet sniffer developed during the CodeAlpha Cybersecuri
 ## Usage
 Run the script with superuser privileges to enable socket capturing:
 
-```bash
-sudo python3 sniffer.py
 
 ## Screenshots:
 Sniffer Code:
